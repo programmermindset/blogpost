@@ -1,0 +1,40 @@
+.popular-post-container{
+     background-color: rgb(82,86,89);
+}
+.popular-post-container{
+    display: flex;
+    justify-content: center;
+    padding: 25px 0;
+}
+.popular-post-container div h2{
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.popular-post-card-container .img-container{
+    width: 150px;
+    height: 150px;
+    border: 5px solid  rgb(247,101,60);
+    border-radius: 50%;
+}
+.popular-post-card-container .img-container img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.popular-post-card-container{
+    display: grid;
+    grid-template-columns: repeat(4,150px);
+    column-gap: 25px;
+}
+.popular-post-card-container h3{
+    font-size: 15px;
+    text-align: center;
+    margin: 10px 0;
+}
+.popular-post-card-container p{
+    text-align: center;
+}
+.popular-post-card-container span{
+    color:  rgb(247,101,60);
+}

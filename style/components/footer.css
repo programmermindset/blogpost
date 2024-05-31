@@ -1,0 +1,67 @@
+.contact-us-container{
+    background-color: rgb(34,36,45);
+    padding: 45px 0;
+}
+.contact-us-container h2{
+    text-align: center;
+    margin-bottom: 15px;
+    color: rgba(255,255,255,0.5);
+
+}
+
+.contact-us-container input,.contact-us-container textarea{
+    display: block;
+    background-color: transparent;
+    border: 1px solid rgba(255,255,255,0.2);
+    width: 350px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: none;
+    color: rgba(255,255,255,0.2);
+}
+
+.contact-us-container textarea{
+    margin: 15px 0;
+    height: 150px;
+}
+.contact-us-container button{
+    display: block;
+    width: 350px;
+    border-radius: 5px;
+    background-color:  rgb(247,101,60);
+    color: white;
+    padding: 5px 0;
+    cursor: pointer;
+}
+.copyright-social-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(15, 15, 15);
+    padding: 15px 95px;
+}
+.copyright-social-container ul{
+    display: flex;
+    margin-bottom: 10px;
+    
+}
+.copyright-social-container ul li{
+    margin-right: 35px;
+    color: rgba(255,255,255,0.2);
+    text-transform: capitalize;
+}
+.copyright-social-container ul li a{
+    color: rgba(255,255,255,0.2);
+}
+.copyright-social-container .copyright span{
+    color: rgba(255,255,255,0.2);
+}
+.copyright-social-container span i{
+    font-size: 25px;
+    margin-left: 15px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

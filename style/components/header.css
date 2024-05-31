@@ -1,0 +1,28 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 55px ;
+    align-items: center;
+}
+header nav a {
+    text-transform: capitalize;
+    font-size: 20px;
+    color: black;
+
+}
+.nav-link{
+    margin-right: 20px;
+}
+header .site-logo{
+    font-weight: 900;
+    font-size: 30px;
+}
+.sub-header{
+    padding: 15px 30px;
+    border-radius: 9px;
+    color:  white;
+    background-color: rgb(247,101,60);
+    text-transform: capitalize;
+    font-weight: 900;
+    font-size: 15px;
+}
