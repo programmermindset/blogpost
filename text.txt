@@ -1,8 +1,0 @@
-        <!-- Making the web better for tomorrow -->
-        <!-- We want to help you build beautiful, accessible, fast, and secure websites  -->
-
-        
-        <!-- Explore our archive of content, covering subjects across the web development stack. Find the latest news and content on our blog, see the latest articles, and discover content by groups on the explore page. -->
-
-
-<!-- We hope GreateWeb helps you to create high quality web experiences today. If you want to learn more about what we are doing, and offer feedback on the features we are developing and contributing to, check out Chrome for Developers. -->
